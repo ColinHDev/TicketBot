@@ -1,0 +1,15 @@
+{
+  "token": "",
+  "prefix": "-",
+
+  "interactCooldown": 3000,
+  "deleteMessagesTime": 5000,
+
+  "activities": [
+    "WATCHING---to %tickets% Ticket(s)",
+    "PLAYING---on %guilds% Server(s)",
+    "LISTENING---%users% User(s)",
+    "WATCHING---to %prefix%help"
+  ],
+  "clientuserActivitySwitchTime": 5000
+}
