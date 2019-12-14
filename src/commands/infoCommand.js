@@ -17,11 +17,15 @@ module.exports = {
                         )
                         .addField(
                             "__DiscordServer__",
-                            "`https://discord.gg/aYtgqnt/`"
+                            "https://discord.gg/fthhxXt/"
                         )
                         .addField(
                             "__GitHub-Project__",
-                            "`https://github.com/ColinHDev/Colin-TicketBot`"
+                            "https://github.com/ColinHDev/TicketBot"
+                        )
+                        .addField(
+                            "__original Bot__",
+                            "https://discordapp.com/api/oauth2/authorize?client_id=626444219418148866&permissions=8&scope=bot"
                         )
                         .setFooter(
                             "Made with ❤ and NodeJS by @Colin#2052! (https://github.com/ColinHDev/)",
@@ -42,11 +46,15 @@ module.exports = {
                         )
                         .addField(
                             "__DiscordServer__",
-                            "`https://discord.gg/aYtgqnt/`"
+                            "https://discord.gg/fthhxXt/"
                         )
                         .addField(
                             "__GitHub-Projekt__",
-                            "`https://github.com/ColinHDev/Colin-TicketBot`"
+                            "https://github.com/ColinHDev/TicketBot"
+                        )
+                        .addField(
+                            "__originaler Bot__",
+                            "https://discordapp.com/api/oauth2/authorize?client_id=626444219418148866&permissions=8&scope=bot"
                         )
                         .setFooter(
                             "Made with ❤ and NodeJS by @Colin#2052! (https://github.com/ColinHDev/)",

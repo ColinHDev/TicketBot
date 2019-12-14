@@ -1,14 +1,14 @@
 {
   "name": "ticketbot",
-  "version": "3.0.0",
-  "description": "A ticket bot written with NodeJS for the Discord.js API and developed as a private project ( developed for Colin).",
+  "version": "3.0.1",
+  "description": "A ticket bot written with NodeJS for the Discord.js API and developed as a private project.",
   "main": "src/TicketBot.js",
   "scripts": {
     "test": "node src/TicketBot.js debug",
     "start": "node src/TicketBot.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Colin - https://github.com/ColinHDev/",
   "license": "ISC",
   "dependencies": {
     "discord.js": "11.5.1"

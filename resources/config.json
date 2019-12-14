@@ -1,6 +1,6 @@
 {
   "token": "",
-  "prefix": "-",
+  "prefix": "+",
 
   "interactCooldown": 3000,
   "deleteMessagesTime": 5000,
